@@ -1,6 +1,6 @@
 # wakatobi-fontawesome
 
-Plugin name: **wakatobiFontawesome**, alias: **mpafa**
+Plugin name: **wakatobiFontawesome**, alias: **wktbfa**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/wakatobi-fontawesome) ![NPM Version](https://img.shields.io/npm/v/wakatobi-fontawesome)
 
