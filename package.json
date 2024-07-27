@@ -1,0 +1,32 @@
+{
+  "name": "wakatobi-fontawesome",
+  "version": "1.0.0",
+  "description": "Font Awesome suport for Wakatobi Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/wakatobi-fontawesome.git"
+  },
+  "keywords": [
+    "fontawesome",
+    "web",
+    "webserver",
+    "bajo",
+    "framework",
+    "fastify",
+    "modular"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/wakatobi-fontawesome/issues"
+  },
+  "homepage": "https://github.com/ardhi/wakatobi-fontawesome#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0"
+  }
+}
