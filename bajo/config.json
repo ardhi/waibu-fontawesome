@@ -1,4 +1,4 @@
 {
-  "alias": "wktbfa",
-  "dependencies": ["wakatobi-mpa"]
+  "alias": "wbfa",
+  "dependencies": ["waibu-mpa"]
 }
