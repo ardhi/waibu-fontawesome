@@ -1,22 +1,22 @@
-# wakatobi-fontawesome
+# waibu-fontawesome
 
-Plugin name: **wakatobiFontawesome**, alias: **wktbfa**
+Plugin name: **waibuFontawesome**, alias: **wbfa**
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/wakatobi-fontawesome) ![NPM Version](https://img.shields.io/npm/v/wakatobi-fontawesome)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-fontawesome) ![NPM Version](https://img.shields.io/npm/v/waibu-fontawesome)
 
 > <br />**Attention**: I do NOT accept any pull request at the moment, thanks!<br /><br />
 
-Fontawesome support for [Wakatobi Framework](https://github.com/ardhi/wakatobi-fontawesome)
+Fontawesome support for [Waibu Framework](https://github.com/ardhi/waibu-fontawesome)
 
 ## Installation
 
 Goto your ```<bajo-base-dir>``` and type:
 
 ```bash
-$ npm install wakatobi-fontawesome
+$ npm install waibu-fontawesome
 ```
 
-Now open your ```<bajo-data-dir>/config/.plugins``` and put ```wakatobi-fontawesome``` in it.
+Now open your ```<bajo-data-dir>/config/.plugins``` and put ```waibu-fontawesome``` in it.
 
 ## License
 
