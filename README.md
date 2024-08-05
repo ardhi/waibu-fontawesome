@@ -6,7 +6,7 @@ Plugin name: **waibuFontawesome**, alias: **wbfa**
 
 > <br />**Attention**: I do NOT accept any pull request at the moment, thanks!<br /><br />
 
-Fontawesome support for [Waibu Framework](https://github.com/ardhi/waibu-fontawesome)
+Fontawesome support for [Waibu MPA](https://github.com/ardhi/waibu-mpa)
 
 ## Installation
 
