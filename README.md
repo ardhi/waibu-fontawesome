@@ -1,6 +1,6 @@
 # waibu-fontawesome
 
-Plugin name: **waibuFontawesome**, alias: **wbfa**
+Plugin name: **waibuFontawesome**, alias: **wfa**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-fontawesome) ![NPM Version](https://img.shields.io/npm/v/waibu-fontawesome)
 
